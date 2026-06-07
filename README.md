@@ -8,5 +8,5 @@
 - 🛰️ I love astrophysics and earth science, and I'm constantly looking for ways to give the community some of my knowledge.
 - 🔭 I’m currently working on a C++ app called SuperWin, and I used to work a lot on Atom Bowl, check it out [here](https://shankar-sachin.github.io/atombowl)
 - 🌱 I’m currently learning calculus and astrophysics, and I'm planning on using my coding skills for rocketry projects in ISEF 🚀
-- 📫 How to reach me: mailto: [sachinshankar@live.com](mailto:sachinshankar@live.com)
+- 📫 How to reach me: [sachinshankar@live.com](mailto:sachinshankar@live.com)
 - 😄 Pronouns: he/him/nothey
